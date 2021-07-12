@@ -17,3 +17,4 @@ Fix of bug
 ## version 1.4
 Fix of bug
 - New Checker House Update
+- Change command '/gos'
